@@ -1,0 +1,13 @@
+Cartpole Deep Q Learning: Machine Learning & Bioinspired Optimisation
+
+Harry Williams
+James McCarron 
+
+The code for our network is written in Python, in the notebook format.
+This filetype can either be opening in your Jupyter Notebook Environment, or in Google Co-Lab. 
+
+We recommend using Jupyter as this allows for video rendering of the gameplay, along with properly displaying the additional information we've included in the notebook. 
+
+To run the code, go to the Kernel tab and select 'restart and run all'. 
+
+
